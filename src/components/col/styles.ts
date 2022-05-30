@@ -10,4 +10,5 @@ flex: ${({ flex }) => flex};
 align-items: ${({ alignItems }) => alignItems};
 justify-content: ${({ justifyContent }) => justifyContent};
 flex-direction: column;
+display: flex;
 `;
